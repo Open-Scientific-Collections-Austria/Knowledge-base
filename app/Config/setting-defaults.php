@@ -10,7 +10,7 @@
 
 return [
 
-    'app-name'             => 'BookStack',
+    'app-name'             => 'OSCA Knowledge base',
     'app-logo'             => '',
     'app-name-header'      => true,
     'app-editor'           => 'wysiwyg',

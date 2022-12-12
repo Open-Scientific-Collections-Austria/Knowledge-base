@@ -243,6 +243,7 @@ export function build(options) {
         imagetools_toolbar: 'imageoptions',
         contextmenu: false,
         toolbar: getPrimaryToolbar(options),
+        table_header_type: 'sectionCells',
         content_style: getContentStyle(options),
         style_formats,
         style_formats_merge: false,
